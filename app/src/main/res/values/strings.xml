@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">BMI CALCULATOR</string>
+    <string name="lblWeight">Enter your weight</string>
+    <string name="lblHeight">Enter your Height</string>
+    <string name="btnCalo">Find BMI</string>
+    <string name="underweight">Underweight</string>
+    <string name="normal">Normal weight</string>
+    <string name="overweight">over weight</string>
+    <string name="obesity">obesity</string>
+    <string name="very_severely_underweight">very severely underweight</string>
+    <string name="severely_underweight">severely underweight</string>
+    <string name="obese_class_i">obese_class_one</string>
+    <string name="obese_class_ii">obese_class_two</string>
+    <string name="obese_class_iii">obese_class_three</string>
+
+    <string name="Hypoglycemie">hypoglycémie</string>
+    <string name="glycemie_normale">glycémie normale</string>
+    <string name="hyperglycemie_moderer">hyperglycemie modérée</string>
+    <string name="diabete">diabéte</string>
+
+</resources>
